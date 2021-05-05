@@ -59,6 +59,12 @@ tecnologías innovadoras tales como inteligencia artificial (IA), chatbots, bloc
 incluye soluciones para analistas, usuarios finales y administradores profesionales de TI, incluidos análisis de big data, 
 administración de contenido, administración de base de datos, administración de sistemas y seguridad.
 
+## IaaS y sus beneficios
+
+La infraestructura como servicio (IaaS) permite a los clientes acceder a servicios de infraestructura a pedido a través de Internet. La ventaja clave es que el proveedor de la nube aloja los componentes de la infraestructura que proporcionan capacidad de cómputo, almacenamiento y red para que los suscriptores puedan ejecutar sus cargas de trabajo en la nube. El suscriptor de la nube generalmente es responsable de instalar, configurar, asegurar y mantener cualquier software que se encuentre dentro de la infraestructura basada en la nube, como la base de datos, el middleware y el software de aplicación.
+
+
+
 ## Azure
 Se trata de una plataforma de computación en nube pública de Microsoft. 
 Proporciona una gama de servicios en la nube, incluidos los de computación, analítica, almacenamiento y redes. 
